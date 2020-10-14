@@ -36,3 +36,4 @@ Ressurser for å lære deg responsivt design:
 - https://www.hackerrank.com/
 - https://projecteuler.net/
 - https://www.codingame.com
+- https://www.coderbyte.com/challenges
