@@ -1,4 +1,6 @@
 # Ressurser for å komme i gang med eget arbeid
+### Hvis du har en god ressurs, opprett en pull request med ressursene lagt til i README-filen :-)
+
 
 # Ulike prosjekter
 - https://workshops.hackclub.com/
