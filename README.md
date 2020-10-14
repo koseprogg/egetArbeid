@@ -3,6 +3,7 @@
 # Ulike prosjekter
 - https://workshops.hackclub.com/
 
+
 ## Ren HTML og CSS
 - Forsøk å gjenskape en nettside du bruker ofte, eller gjenskap en av eksemplene her:
 - https://www.freewebtemplates.com/.
@@ -30,6 +31,8 @@ Ressurser for å lære deg responsivt design:
 - Utforsk ulike nettleserutvidelser som kan hjelpe deg med utviklingen din
 - Delta på årets Hacktoberfest: https://hacktoberfest.digitalocean.com/
 
-## Forbered deg på et kodeintervju:
+## Forbered deg på et kodeintervju eller prøv en kodenøtt
 - https://www.interviewcake.com/
 - https://www.hackerrank.com/
+- https://projecteuler.net/
+- https://www.codingame.com
